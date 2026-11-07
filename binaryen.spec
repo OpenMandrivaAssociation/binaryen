@@ -1,5 +1,5 @@
 Name: binaryen
-Version: 131
+Version: 133
 Release: 1
 Source0: https://github.com/WebAssembly/binaryen/archive/refs/tags/version_%{version}.tar.gz
 Summary: Optimizer and compiler/toolchain library for WebAssembly
